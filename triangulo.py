@@ -1,9 +1,9 @@
 def triangulo(a,b,c):
 	if (a+b)<c:
-		print('triangulo')
+		print('È triangulo.')
 	elif(a+c)<b:
-		print('triangulo')
+		print('È triangulo.')
 	elif(c+b)<a:
-		print('triangulo')
+		print('È triangulo.')
 	else:
-		print('não é triangulo')
+		print('Não é um triangulo!')
